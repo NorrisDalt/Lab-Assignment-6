@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drns1\\Projects\\Lab-Assignment-6\\Zork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C1750-B49B-48DB-A8DA-3995B2DB2479}|Zork\\Zork.csproj|c:\\users\\drns1\\projects\\lab-assignment-6\\zork\\zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C1750-B49B-48DB-A8DA-3995B2DB2479}|Zork\\Zork.csproj|solutionrelative:zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drns1\\Projects\\Lab-Assignment-6\\Zork\\Zork\\Program.cs",
+              "RelativeDocumentMoniker": "Zork\\Program.cs",
+              "ToolTip": "C:\\Users\\drns1\\Projects\\Lab-Assignment-6\\Zork\\Zork\\Program.cs",
+              "RelativeToolTip": "Zork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:47:19.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
