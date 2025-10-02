@@ -1,0 +1,15 @@
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\bin\Debug\net8.0\Zork.exe
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\bin\Debug\net8.0\Zork.deps.json
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\bin\Debug\net8.0\Zork.runtimeconfig.json
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\bin\Debug\net8.0\Zork.dll
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\bin\Debug\net8.0\Zork.pdb
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\obj\Debug\net8.0\Zork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\obj\Debug\net8.0\Zork.AssemblyInfoInputs.cache
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\obj\Debug\net8.0\Zork.AssemblyInfo.cs
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\obj\Debug\net8.0\Zork.csproj.CoreCompileInputs.cache
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\obj\Debug\net8.0\Zork.sourcelink.json
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\obj\Debug\net8.0\Zork.dll
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\obj\Debug\net8.0\refint\Zork.dll
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\obj\Debug\net8.0\Zork.pdb
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\obj\Debug\net8.0\Zork.genruntimeconfig.cache
+C:\Users\drns1\Projects\Lab-Assignment-6\Zork\Zork\obj\Debug\net8.0\ref\Zork.dll
